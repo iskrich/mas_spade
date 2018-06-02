@@ -1,128 +1,128 @@
 graph [
    node [
-     id 1
+     id A
    ]
    node [
-     id 2
+     id B
    ]
    node [
-     id 3
+     id C
    ]
    node [
-     id 4
+     id D
    ]
    node [
-     id 5
+     id E
    ]
    node [
-     id 6
+     id F
    ]
    node [
-     id 7
+     id G
    ]
    node [
-     id 8
+     id H
    ]
    node [
-     id 9
+     id I
    ]
    node [
-     id 10
+     id J
    ]
    node [
-     id 11
+     id K
    ]
    node [
-     id 12
+     id L
    ]
    edge [
-     source 1
-     target 2
+     source A
+     target B
      weight 1
    ]
    edge [
-     source 1
-     target 3
+     source A
+     target C
      weight 2
    ]
    edge [
-     source 2
-     target 4
+     source B
+     target D
      weight 3
    ]
    edge [
-     source 2
-     target 5
+     source B
+     target E
      weight 4
    ]
    edge [
-     source 3
-     target 6
+     source C
+     target F
      weight 5
    ]
    edge [
-     source 3
-     target 7
+     source C
+     target G
      weight 6
    ]
    edge [
-     source 4
-     target 5
+     source D
+     target E
      weight 7
    ]
    edge [
-     source 5
-     target 6
+     source E
+     target F
      weight 8
    ]
    edge [
-     source 5
-     target 8
+     source E
+     target H
      weight 9
    ]
    edge [
-     source 6
-     target 7
+     source F
+     target G
      weight 10
    ]
    edge [
-     source 6
-     target 8
+     source F
+     target H
      weight 11
    ]
    edge [
-     source 6
-     target 9
+     source F
+     target I
      weight 12
    ]
    edge [
-     source 7
-     target 9
+     source G
+     target I
      weight 13
    ]
    edge [
-     source 8
-     target 9
+     source H
+     target J
      weight 14
    ]
    edge [
-     source 8
-     target 10
+     source H
+     target I
      weight 15
    ]
    edge [
-     source 8
-     target 12
+     source H
+     target L
      weight 16
    ]
    edge [
-     source 10
-     target 11
+     source H
+     target L
      weight 17
    ]
    edge [
-     source 11
-     target 12
+     source L
+     target M
      weight 18
    ]
 ]
