@@ -7,8 +7,7 @@ log = getLogger(__file__)
 
 CITIES_DIR = path.join(path.dirname(path.abspath(__file__)), 'cities')
 
-
-class City(object):
+class City:
     def __init__(self, city_name):
         self.gml = nx.read_gml(path=path.join(CITIES_DIR, city_name), label='id')
 

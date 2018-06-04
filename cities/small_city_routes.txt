@@ -2,11 +2,11 @@ I
 A C B J
 B
 C A
-D A H K
+D
 E K I
 F D
-J I A
-H L G E
+J
+H
 I
 K
 L B
