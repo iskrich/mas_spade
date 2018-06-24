@@ -1,0 +1,1 @@
+from templates import BID_TEMPLATE, PROPOSAL_TEMPLATE
